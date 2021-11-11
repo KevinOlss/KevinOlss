@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KevinOlss
 - 👀 I’m interested in learning
 - 🌱 Python
-- 💞️ Data engineering / data science
+- 💞️ Data engineering / Data science
 
 <!---
 KevinOlss/KevinOlss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
